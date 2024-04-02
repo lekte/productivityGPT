@@ -2,7 +2,7 @@ const url = "https://api.openai.com/v1/completions";
 
 export const generateContentByGPT = async (prompt: string) => {
   const data = JSON.stringify({
-    model: "text-davinci-003",
+    model: "gpt-3.5-turbo",
     prompt: prompt,
     max_tokens: 1000,
     temperature: 0.5,
