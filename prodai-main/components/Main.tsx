@@ -111,16 +111,7 @@ const Main = () => {
           </>
         )}
       </form>
-      <iframe
-        src="https://embeds.beehiiv.com/ae616a22-51f7-496c-9797-cf7d46662f1e"
-        data-test-id="beehiiv-embed"
-        width="100%"
-        height="320"
-        // frameborder="0"
-        scrolling="no"
-        // style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"
-        className="rounded-md  bg-transparent my-4 "
-      />
+      <iframe src="https://embeds.beehiiv.com/413408ae-b01d-4440-9712-6334011b012c" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
     </div>
   );
 };
