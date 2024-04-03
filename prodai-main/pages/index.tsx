@@ -18,7 +18,7 @@ export default function Home() {
       <Header />
       <main className="flex flex-1 w-full flex-col items-center justify-center text-center px-4 mb-[100px] sm:mt-20">
         <h1 className="sm:text-6xl text-4xl max-w-2xl font-bold text-slate-900">
-          AI-Powered Personal Productivity Tool
+          Plan your day effectively with AI, become 10x more productive
         </h1>
         <iframe
           src="https://embeds.beehiiv.com/413408ae-b01d-4440-9712-6334011b012c"
