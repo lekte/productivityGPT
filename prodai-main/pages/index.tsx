@@ -20,7 +20,14 @@ export default function Home() {
         <h1 className="sm:text-6xl text-4xl max-w-2xl font-bold text-slate-900">
           AI-Powered Personal Productivity Tool
         </h1>
-
+        <iframe
+          src="https://embeds.beehiiv.com/413408ae-b01d-4440-9712-6334011b012c"
+          data-test-id="beehiiv-embed"
+          width="100%"
+          height="320"
+          className="rounded-md bg-transparent my-4"
+          scrolling="no"
+        ></iframe>
         <Main />
 
         <Toaster
