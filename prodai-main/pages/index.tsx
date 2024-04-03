@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <div className="flex max-w-7xl mx-auto flex-col items-center justify-center py-2 min-h-screen">
       <Head>
-        <title>ProductiveAI</title>
+        <title>PlanMyDay AI</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
