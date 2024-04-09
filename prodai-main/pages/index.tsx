@@ -21,7 +21,7 @@ export default function Home() {
           Plan your day effectively with AI, become 10x more productive
         </h1>
         <iframe
-          src="https://embeds.beehiiv.com/413408ae-b01d-4440-9712-6334011b012c"
+          src="https://embeds.beehiiv.com/0af65d28-5963-4a43-9979-4a9e272095fa"
           data-test-id="beehiiv-embed"
           width="100%"
           height="320"
